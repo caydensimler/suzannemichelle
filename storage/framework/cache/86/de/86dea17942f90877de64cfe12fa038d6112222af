@@ -1,0 +1,30 @@
+1511719893a:1:{s:21:"modules/nav-items.htm";a:5:{s:8:"fileName";s:21:"modules/nav-items.htm";s:7:"content";s:348:"{% if this.theme.download_enabled %}
+<li>
+    <a class="page-scroll" href="#download">Download</a>
+</li>
+{% endif %}
+{% if this.theme.features_enabled %}
+<li>
+    <a class="page-scroll" href="#features">Features</a>
+</li>
+{% endif %}
+{% if this.theme.contact_enabled %}
+<li>
+    <a class="page-scroll" href="#contact">Contact</a>
+</li>
+{% endif %}
+";s:5:"mtime";i:1511716440;s:6:"markup";s:347:"{% if this.theme.download_enabled %}
+<li>
+    <a class="page-scroll" href="#download">Download</a>
+</li>
+{% endif %}
+{% if this.theme.features_enabled %}
+<li>
+    <a class="page-scroll" href="#features">Features</a>
+</li>
+{% endif %}
+{% if this.theme.contact_enabled %}
+<li>
+    <a class="page-scroll" href="#contact">Contact</a>
+</li>
+{% endif %}";s:4:"code";N;}}

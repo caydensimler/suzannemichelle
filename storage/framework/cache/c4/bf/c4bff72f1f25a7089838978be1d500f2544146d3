@@ -1,0 +1,38 @@
+1511719893a:1:{s:15:"modules/nav.htm";a:5:{s:8:"fileName";s:15:"modules/nav.htm";s:7:"content";s:799:"<nav
+    id="mainNav"
+    class="navbar {{ this.theme.menu_transparent ? 'navbar-default' : 'navbar-inverse' }} navbar-fixed-top"
+>
+    <div class="container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                <span class="sr-only">Toggle navigation</span> Menu <i class="fa fa-bars"></i>
+            </button>
+            <a class="navbar-brand page-scroll" href="#page-top">{{ this.theme.site_title }}</a>
+        </div>
+
+        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+            <ul class="nav navbar-nav navbar-right">
+                {% partial 'modules/nav-items.htm' %}
+            </ul>
+        </div>
+    </div>
+</nav>
+";s:5:"mtime";i:1511716440;s:6:"markup";s:798:"<nav
+    id="mainNav"
+    class="navbar {{ this.theme.menu_transparent ? 'navbar-default' : 'navbar-inverse' }} navbar-fixed-top"
+>
+    <div class="container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                <span class="sr-only">Toggle navigation</span> Menu <i class="fa fa-bars"></i>
+            </button>
+            <a class="navbar-brand page-scroll" href="#page-top">{{ this.theme.site_title }}</a>
+        </div>
+
+        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+            <ul class="nav navbar-nav navbar-right">
+                {% partial 'modules/nav-items.htm' %}
+            </ul>
+        </div>
+    </div>
+</nav>";s:4:"code";N;}}

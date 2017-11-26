@@ -1,0 +1,20 @@
+1511719893a:1:{s:18:"modules/footer.htm";a:5:{s:8:"fileName";s:18:"modules/footer.htm";s:7:"content";s:254:"<footer>
+    <div class="container">
+        <p>{{ this.theme.footer }}</p>
+        {% if this.theme.footer_menu %}
+        <ul class="list-inline">
+            {% partial 'modules/nav-items.htm' %}
+        </ul>
+        {% endif %}
+    </div>
+</footer>
+";s:5:"mtime";i:1511716440;s:6:"markup";s:253:"<footer>
+    <div class="container">
+        <p>{{ this.theme.footer }}</p>
+        {% if this.theme.footer_menu %}
+        <ul class="list-inline">
+            {% partial 'modules/nav-items.htm' %}
+        </ul>
+        {% endif %}
+    </div>
+</footer>";s:4:"code";N;}}
